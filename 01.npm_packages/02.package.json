@@ -1,0 +1,8 @@
+{
+    "name": "Nombre del proyecto",
+    "description": "Descripcion del proyecto",
+    "version": "Version del proyecto, eg. 1.0.2",
+    "author": "Especifica quien creo el proyecto",
+    "keywords": "Contenidas en un arreglo, son palabras clave relacionadas con el proyecto",
+    "licence": "Informa a los usuarios sobre lo que tienen permitido hacer con el proyecto"
+}
